@@ -76,6 +76,7 @@
     HTML/CSS 💻<br>
     C++ 🔥<br>
     QBASIC 👴<br>
+    LaTeX 🍃<br>
   </p>
   <p>
     <b>Intermediate</b>:<br>
