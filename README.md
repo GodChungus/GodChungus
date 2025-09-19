@@ -27,8 +27,8 @@
 <div align="center">
   - <b>Name:</b> Prakrit Gajurel<br>
   - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
-  - <b>Interests:</b> Coding, Math, Physics, Algorithms, Competitive Programming<br>
-  - <b>Currently Studying:</b> Grade 10<br>
+  - <b>Interests:</b> Math, Physics, Algorithms, Competitive Programming<br>
+  - <b>Currently Studying:</b> A Levels First Year<br>
 </div>
 
 <!--border line-->
@@ -39,27 +39,23 @@
 </div>
 
 <div align="center">
-    - 🔭 I am currently a student in Nepal, doing mostly math-related programming.<br>
+    - 🔭 I am currently a student in Nepal, doing mostly math(olympiad and pure).<br>
     - 🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
     - 👑 IMO, IOI Aspirant<br>
     - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
-    - 🔢 I love math(especially proofs), I taught myself many topics such as Calculus 1 and 2, Trigonometry, etc. Whenever I see something new, I always try and find my own method of finding out WHY it is that formula, instead of just accepting it as it is.<br>
-    - 🐱‍👤 I don't just code though, I also know how to edit videos, photos, and can do much more with my abilities!<br>
-    - 📧 Feel free to reach out to me at: <u><i>pgajurel111@hotmail.com</i></u><br>
 </div>
 
 <!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2><b>❓Currently Learning❓</b></h2>
+  <h2><b>❓Currently Doing❓</b></h2>
 </div>
 
 <div align="center">
-  - 3️⃣ Calculus 3<br>
-  - ☕ Java<br>
+  - 3️⃣ Group Theory<br>
+  - ☕ Olympiad Math<br>
   - 🧮 Algorithms<br>
-  - 🤖 Discord Bot Development <br>
 </div>
 
 <!--border line-->
@@ -73,7 +69,6 @@
   <p>
     <b>Proficient</b>:<br>
     Python 🐍<br>
-    HTML/CSS 💻<br>
     C++ 🔥<br>
     QBASIC 👴<br>
     LaTeX 🍃<br>
