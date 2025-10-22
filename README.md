@@ -27,7 +27,7 @@
 <div align="center">
   - <b>Name:</b> Prakrit Gajurel<br>
   - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
-  - <b>Interests:</b> Math, Physics, Algorithms, Competitive Programming<br>
+  - <b>Interests:</b> Math, Physics, Programming, Literature<br>
   - <b>Currently Studying:</b> A Levels First Year<br>
 </div>
 
@@ -39,10 +39,10 @@
 </div>
 
 <div align="center">
-    - 🔭 I am currently a student in Nepal, doing mostly math(olympiad and pure).<br>
-    - 🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
-    - 👑 IMO, IOI Aspirant<br>
+    - 🔭 I am a student based in Nepal, doing mostly math(olympiad and pure).<br>
+    - 👑 I hope to get into Nepal's IMO team by 2027. Go Nepal!<br>
     - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+    - 🟩 I play Minecraft a lot, although I still carry out nerdy things in the game(involving redstone and such).
 </div>
 
 <!--border line-->
@@ -53,12 +53,9 @@
 </div>
 
 <div align="center">
-  - ☕ Olympiad Math<br>
+  - ➗ Preparations for the IMO<br>
+  - 📖 Going through Dante's Divine Comedy <br>
 </div>
 
 <!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--border again-->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
