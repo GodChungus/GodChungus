@@ -54,7 +54,7 @@
 
 <div align="center">
   - ➗ Preparations for the IMO<br>
-  - 📖 Going through Dante's Divine Comedy <br>
+  - 📖 Learning CPU architecture(and applying them in Minecraft..) <br>
 </div>
 
 <!--border line-->
