@@ -54,7 +54,7 @@
 
 <div align="center">
   - ➗ Preparations for the IMO<br>
-  - 📖 Learning CPU architecture(and applying them in Minecraft..) <br>
+  - 📖 Developing projects for an exhibition... <br>
 </div>
 
 <!--border line-->
