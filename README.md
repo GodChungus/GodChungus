@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,eclipse,github,gmail,html,instagram,latex,matlab,notion,obsidian,ps,pr,pycharm,py,robloxstudio,stackoverflow,vim,vscode,windows&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ae,atom,arduino,c,cpp,css,discord,eclipse,github,gmail,html,instagram,latex,matlab,notion,obsidian,ps,pr,pycharm,py,robloxstudio,stackoverflow,vim,vscode,windows&perline=5" />
   </a>
 </div>
 
