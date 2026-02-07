@@ -54,7 +54,6 @@
 
 <div align="center">
   - ➗ Preparations for the IMO<br>
-  - 📖 Developing projects for an exhibition... <br>
 </div>
 
 <!--border line-->
