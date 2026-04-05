@@ -54,6 +54,7 @@
 
 <div align="center">
   - ➗ Preparations for the IMO<br>
+  - 💀 Studying for CIE M/J exams<br>
 </div>
 
 <!--border line-->
