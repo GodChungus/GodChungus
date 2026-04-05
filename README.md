@@ -27,7 +27,7 @@
 <div align="center">
   - <b>Name:</b> Prakrit Gajurel<br>
   - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
-  - <b>Interests:</b> Math, Physics, Programming, Literature<br>
+  - <b>Interests:</b> Math, Physics, Programming<br>
   - <b>Currently Studying:</b> A Levels First Year<br>
 </div>
 
