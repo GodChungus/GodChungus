@@ -28,7 +28,7 @@
   - <b>Name:</b> Prakrit Gajurel<br>
   - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
   - <b>Interests:</b> Math, Physics, Programming<br>
-  - <b>Currently Studying:</b> A Levels First Year<br>
+  - <b>Currently Studying:</b> A Levels<br>
 </div>
 
 <!--border line-->
@@ -42,7 +42,6 @@
     - 🔭 I am a student based in Nepal, doing mostly math(olympiad and pure).<br>
     - 👑 I hope to get into Nepal's IMO team by 2027. Go Nepal!<br>
     - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
-    - 🟩 I play Minecraft a lot, although I still carry out nerdy things in the game(involving redstone and such).
 </div>
 
 <!--border line-->
@@ -54,7 +53,6 @@
 
 <div align="center">
   - ➗ Preparations for the IMO<br>
-  - 💀 Studying for CIE M/J exams<br>
 </div>
 
 <!--border line-->
