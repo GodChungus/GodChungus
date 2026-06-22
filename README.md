@@ -10,23 +10,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="background-color:#1F222E; padding:20px; border-radius:12px;">
-
-      <h3>👤 About Me</h3>
-
-      🔭 Student based in Nepal, focused on Mathematics (Olympiad & pure math)<br><br>
-
-      👑 Aiming to make Nepal’s IMO team by 2027 — go Nepal!<br><br>
-
-      ☁ Passionate about problem-solving and elegant algorithms, often designing my own approaches<br><br>
-
-      🟩 Minecraft enjoyer — especially redstone systems and logic builds
-
-    </td>
-  </tr>
-</table>
+🔭 Student based in Nepal, focused on Mathematics (Olympiad & pure math)
+<br>
+👑 Aiming for Nepal’s IMO team (2027)
+<br>
+☁ Passionate about problem-solving, algorithms, and elegant thinking
 
 </div>
 
