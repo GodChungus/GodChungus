@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h2 align="center"> Connect with me </h2>
+<h2 align="center">📧 Connect with me 📧</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/prakrit-gajurel-6b28423b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
