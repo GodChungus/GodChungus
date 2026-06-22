@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+
+
 <h2 align="center">💻 Repositories 💻</h2>
 
 <p align="center">
