@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prakrit+Gajurel" alt="Typing SVG" /></a>
+</div>
+
 <h2 align="center">🔨 My Skills 🔨</h2>
 
 <div align="center">
