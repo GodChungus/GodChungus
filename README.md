@@ -1,7 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+<p align="center">
+  <a href="https://github.com/GodChungus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GodChungus&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/GodChungus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"/>
+  </a>
+</p>
 
 
 <h2 align="center">💻 Repositories 💻</h2>
