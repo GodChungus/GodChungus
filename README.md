@@ -3,10 +3,11 @@
 <h2 align="center">🔨 My Skills 🔨</h2>
 
 <p align="center">
-  <img height="48" src="https://cdn.simpleicons.org/python" />
-  <img height="48" src="https://cdn.simpleicons.org/visualstudiocode" />
-  <img height="48" src="https://cdn.simpleicons.org/pycharm" />
-  <img height="48" src="https://cdn.simpleicons.org/davinciresolve" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,opencv,vscode,pycharm,git,github,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
