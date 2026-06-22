@@ -2,9 +2,11 @@
 
 <h2 align="center">🔨 My Skills 🔨</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,opencv,vscode,pycharm,git,github,linux" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,atom,arduino,c,cpp,css,discord,eclipse,github,gmail,html,instagram,latex,matlab,notion,obsidian,ps,pr,pycharm,py,robloxstudio,stackoverflow,vim,vscode,windows&perline=5" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
