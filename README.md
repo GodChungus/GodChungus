@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Some of my repositories
+<h2 align="center">Some of my repositories</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus/Face-Recognition-in-Arduino">
