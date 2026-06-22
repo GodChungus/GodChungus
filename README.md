@@ -1,72 +1,17 @@
-<!--border line-->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <h1>👾Welcome to my GitHub👾</h1>
-</div>
 
-<!--border line-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--credit to vaxad for this amazing snake thing-->
-
-<div align="center">
-  <img  src="https://github.com/vaxad/vaxad/blob/main/grid-snake.svg"
-       alt="yoinked from github.com/vaxad" /></a>
-</div>
-
-<!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h2><b>📝Introduction📝</b></h2>
-</div>
-
-<div align="center">
-  - <b>Name:</b> Prakrit Gajurel<br>
-  - <b>DOB(MM/DD/YYYY):</b> 04/01/2010<br>
-  - <b>Interests:</b> Math, Physics, Programming<br>
-  - <b>Currently Studying:</b> A Levels<br>
-</div>
-
-<!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h2><b>👀About Me👀</b></h2>
-</div>
-
-<div align="center">
-    - 🔭 I am a student based in Nepal, doing mostly math(olympiad and pure).<br>
-    - 👑 I hope to get into Nepal's IMO team by 2027. Go Nepal!<br>
-    - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
-</div>
-
-<!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h2><b>❓Currently Doing❓</b></h2>
-</div>
-
-<div align="center">
-  - ➗ Preparations for the IMO<br>
-</div>
-
-<!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h2><b>🌌 Familiar Software 🌌</b></h2>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,arduino,c,cpp,css,discord,eclipse,github,gmail,html,instagram,latex,matlab,notion,obsidian,ps,pr,pycharm,py,robloxstudio,stackoverflow,vim,vscode,windows&perline=5" />
+<p align="center">
+  <a href="https://github.com/GodChungus/Apollonian-Times">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Apollonian Times"/>
   </a>
-</div>
 
-<!--border line-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="https://github.com/umenzi/jpaefra">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=jpaefra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>
+  </a>
+
+  <a href="https://github.com/umenzi/diversity-rlhf">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF"/>
+  </a>
+</p>
