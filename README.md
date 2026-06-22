@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-1F222E?style=for-the-badge&logo=davinciresolve&logoColor=F85D7F" />
 </p>
 
 <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
