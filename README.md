@@ -1,5 +1,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">🔨 My Skills 🔨</h2>
+
+<p align="center">
+  <img height="48" src="https://cdn.simpleicons.org/python" />
+  <img height="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="48" src="https://cdn.simpleicons.org/pycharm" />
+  <img height="48" src="https://cdn.simpleicons.org/davinciresolve" />
+</p>
+
 <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
 
 <p align="center">
