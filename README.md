@@ -6,6 +6,26 @@
   </a>
 </p>
 
+<h2 align="center">📝 Introduction 📝</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="background-color:#1F222E; border:1px solid #2A2F3A; padding:25px; border-radius:16px;">
+
+      🔭 Student based in Nepal, focused on Mathematics (Olympiad & pure math)<br><br>
+
+      👑 Targeting Nepal IMO team (2027)<br><br>
+
+      ☁ Passionate about algorithms, problem-solving, and creating my own ideas<br><br>
+
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <h2 align="center">🔨 My Skills 🔨</h2>
 
 <div align="center">
