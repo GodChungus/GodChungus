@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h2 align="center">🔨 My Skills 🔨</h2>
+<h1 align="center">🔨 My Skills 🔨</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/DaVinci_Resolve-1F222E?style=for-the-badge&logo=davinciresolve&logoColor=F85D7F" />
 </p>
 
-<h2 align="center"> 📊 GitHub Statistics 📊 </h2>
+<h1 align="center"> 📊 GitHub Statistics 📊 </h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus">
@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="center">💻 Repositories 💻</h2>
+<h1 align="center">💻 Repositories 💻</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus/Face-Recognition-in-Arduino">
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<h2 align="center">📧 Connect with me 📧</h2>
+<h1 align="center">📧 Connect with me 📧</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/prakrit-gajurel-6b28423b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
