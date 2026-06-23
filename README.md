@@ -54,8 +54,8 @@
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Apollonian Times"/>
   </a>
 
-  <a href="https://github.com/GodChungus/Math-Olympiads">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Math-Olympiads&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Math Olympiads"/>
+  <a href="[https://github.com/GodChungus/Math-Olympiads](https://github.com/GodChungus/OTIS-Excerpts-Solutions)">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=OTIS-Excerpts-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="OTIS Excerpts Solutions"/>
   </a>
 </p>
 
