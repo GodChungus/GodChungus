@@ -30,41 +30,58 @@
   <img src="https://img.shields.io/badge/DaVinci_Resolve-1F222E?style=for-the-badge&logo=davinciresolve&logoColor=F85D7F" />
 </p>
 
-<h2 align="center"> 📊 GitHub Statistics 📊 </h2>
+<h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GodChungus&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"/>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=GodChungus&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"
+      alt="GitHub Stats"
+    />
   </a>
-
   <a href="https://github.com/GodChungus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"/>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"
+      alt="Top Languages"
+    />
   </a>
 </p>
-
 
 <h2 align="center">💻 Repositories 💻</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus/Face-Recognition-in-Arduino">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Face-Recognition-in-Arduino&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Face Recognition in Arduino"/>
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Face-Recognition-in-Arduino&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      alt="Face Recognition in Arduino"
+    />
   </a>
 
   <a href="https://github.com/GodChungus/Apollonian-Times">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Apollonian Times"/>
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      alt="Apollonian Times"
+    />
   </a>
 
-  <a href="[https://github.com/GodChungus/Math-Olympiads](https://github.com/GodChungus/OTIS-Excerpts-Solutions)">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=OTIS-Excerpts-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="OTIS Excerpts Solutions"/>
+  <a href="https://github.com/GodChungus/OTIS-Excerpts-Solutions">
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=OTIS-Excerpts-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      alt="OTIS Excerpts Solutions"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GodChungus?tab=repositories">
     <img
-      alt="All Repositories"
-      title="All Repositories"
       src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"
+      alt="All Repositories"
     />
   </a>
 </p>
