@@ -36,14 +36,15 @@
   <a href="https://github.com/GodChungus">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=GodChungus&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"
-      alt="GitHub Stats"
+      src="./profile/stats.svg"
+      alt="GitHub Statistics"
     />
   </a>
+
   <a href="https://github.com/GodChungus">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true"
+      src="./profile/top-langs.svg"
       alt="Top Languages"
     />
   </a>
@@ -55,7 +56,7 @@
   <a href="https://github.com/GodChungus/Face-Recognition-in-Arduino">
     <img
       width="280"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Face-Recognition-in-Arduino&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      src="./profile/face-recognition.svg"
       alt="Face Recognition in Arduino"
     />
   </a>
@@ -63,7 +64,7 @@
   <a href="https://github.com/GodChungus/Apollonian-Times">
     <img
       width="280"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      src="./profile/apollonian-times.svg"
       alt="Apollonian Times"
     />
   </a>
@@ -71,7 +72,7 @@
   <a href="https://github.com/GodChungus/OTIS-Excerpts-Solutions">
     <img
       width="280"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=OTIS-Excerpts-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866"
+      src="./profile/otis-solutions.svg"
       alt="OTIS Excerpts Solutions"
     />
   </a>
@@ -85,6 +86,7 @@
     />
   </a>
 </p>
+
 
 <h2 align="center">📧 Connect with me 📧</h2>
 <p align="center">
