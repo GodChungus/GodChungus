@@ -11,10 +11,6 @@
 <div align="center">
 
 🤔 I'm a 16 year old from Nepal
-<br>
-🔭 I'm mainly focused on mathematics and computer science
-<br>
-👑 Aiming for Nepal’s IMO Team
 
 </div>
 
