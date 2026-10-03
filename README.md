@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🤔 I'm a 16 year old from Nepal
+🤔 I'm a 16 year old from Nepal.
 
 </div>
 
