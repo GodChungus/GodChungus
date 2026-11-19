@@ -10,7 +10,8 @@
 
 <div align="center">
 
-🤔 I'm a 16 year old from Nepal.
+🤔 I'm a 16 year old from Nepal. <br>
+🫩 Also a retired unc. Do not expect an answer out of me if the question is about programming.
 
 </div>
 
