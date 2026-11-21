@@ -27,25 +27,18 @@
   <img src="https://img.shields.io/badge/DaVinci_Resolve-1F222E?style=for-the-badge&logo=davinciresolve&logoColor=F85D7F" />
 </p>
 
+
 <h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus">
-    <img
-      height="180"
-      src="./profile/stats.svg"
-      alt="GitHub Statistics"
-    />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GodChungus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
   </a>
-
   <a href="https://github.com/GodChungus">
-    <img
-      height="180"
-      src="./profile/top-langs.svg"
-      alt="Top Languages"
-    />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodChungus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
+
 
 <h2 align="center">💻 Repositories 💻</h2>
 
