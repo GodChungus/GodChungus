@@ -12,6 +12,8 @@
 
 🤔 I'm a 16 year old from Nepal. <br>
 🫩 Also a retired unc. Do not expect an answer out of me if the question is about programming.
+🔢 Into mathematics! Currently trying my best to get to the IMO.. :(
+🎞️ I also like editing in my free time. I have experience with After Effects, Davinci Resolve, and Blender.
 
 </div>
 
