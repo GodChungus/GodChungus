@@ -59,10 +59,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-</p>
-
 
 
 
