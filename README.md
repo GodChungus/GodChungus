@@ -17,11 +17,12 @@
 
 </div>
 
-<h2 align="center">🔨 My Skills 🔨</h2>
+<h2 align="center">🔨 Things I Use 🔨</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,arduino,c,cpp,css,discord,eclipse,github,gmail,html,instagram,latex,matlab,notion,obsidian,ps,pr,pycharm,py,robloxstudio,stackoverflow,vim,vscode,windows&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ae,arduino,blender,c,cpp,css,discord,eclipse,git,github,html,idea,java,latex,
+      ps,pr,pycharm,py,vscode,windows&perline=5" />
   </a>
 </div>
 
