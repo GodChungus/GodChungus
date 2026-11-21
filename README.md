@@ -40,42 +40,29 @@
 </p>
 
 
+
 <h2 align="center">💻 Repositories 💻</h2>
 
 <p align="center">
   <a href="https://github.com/GodChungus/Face-Recognition-in-Arduino">
-    <img
-      width="280"
-      src="./profile/face-recognition.svg"
-      alt="Face Recognition in Arduino"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Face-Recognition-in-Arduino&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/GodChungus/Apollonian-Times">
-    <img
-      width="280"
-      src="./profile/apollonian-times.svg"
-      alt="Apollonian Times"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/GodChungus/OTIS-Excerpts-Solutions">
-    <img
-      width="280"
-      src="./profile/otis-solutions.svg"
-      alt="OTIS Excerpts Solutions"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=OTIS-Excerpts-Solutions&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GodChungus?tab=repositories">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"
-      alt="All Repositories"
-    />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
   </a>
 </p>
+
 
 
 <h2 align="center">📧 Connect with me 📧</h2>
