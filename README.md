@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-1F222E?style=for-the-badge&logo=davinciresolve&logoColor=F85D7F" />
+  <img src="./davinci.png" width="45" alt="Davinci Resolve"/>
 </p>
 
 
