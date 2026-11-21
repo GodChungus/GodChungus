@@ -48,8 +48,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Face-Recognition-in-Arduino&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/GodChungus/Apollonian-Times">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=Apollonian-Times&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GodChungus/9618-Past-Papers-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GodChungus&repo=9618-Past-Papers-4&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/GodChungus/OTIS-Excerpts-Solutions">
