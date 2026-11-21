@@ -58,10 +58,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GodChungus?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
-  </a>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
+
 
 
 
